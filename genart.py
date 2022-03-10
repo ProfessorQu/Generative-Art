@@ -1,7 +1,3 @@
-# %% [markdown]
-# <a href="https://colab.research.google.com/github/ProfessorQu/Generative-Art/blob/main/generative_art.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
